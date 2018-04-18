@@ -8,7 +8,7 @@ header, footer {
   word-spacing: 50px;
 }
 
-footer {
+footer, ol {
   margin-top: 100px;
 }
 
