@@ -15,3 +15,7 @@ footer, ol {
 div {
   margin-top: -20px;
 }
+
+body {
+  background-color: green;
+}
